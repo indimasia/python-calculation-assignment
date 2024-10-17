@@ -15,4 +15,4 @@ Make sure you have the following installed:
 - Python 3
  
 ## screenshot
-![Screenshot](link)
+![Screenshot](https://raw.githubusercontent.com/indimasia/python-calculation-assignment/refs/heads/master/result.png)
